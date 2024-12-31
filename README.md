@@ -20,6 +20,12 @@ SportsApp, çeşitli spor etkinliklerini takip edebileceğiniz, takımları yön
 
 * MVVM Mimari Deseni: Uygulamanın kod yapısını düzenlemek ve yeniden kullanılabilirliği sağlamak için.
 
+* Firebase: Gerçek zamanlı veri yönetimi ve kullanıcı kaydı için.
+
+* UserDefaults: Küçük verilerin kullanıcı cihazında kalıcı olarak saklanması için.
+
+* FocusState: Form ve kullanıcı girdilerinin dinamik olarak yönetilmesi için.
+
 ## Kurulum
 
 * Bu projeyi yerel bir dizine klonlayın:
